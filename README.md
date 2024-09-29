@@ -1,5 +1,4 @@
 # codeCademy
-Various language code snippets from projects created while learning on CodeCademy 
 
-At this time, I'll be placing my projects created for C++. As I continue to learn different development languages on CodeCademy, I will continue to place them in this repository. 
+**Purpose:** This repository will serve to demonstrate my technical acumen in various areas, as well as hold useful information I learn as I go along, while I complete learning modules for CodeCademy learning paths. It will also serve as a reference for future needs/future reference. 
 
